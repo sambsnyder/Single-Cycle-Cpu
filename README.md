@@ -7,6 +7,8 @@ run on a raspberry pi.
 
 - In this project I designed digital circuits using schematic entry as well as a hardware description language (HDL). I used Logisim for designing and simulating digital circuits.
 
+- The .circ file is the Logisim file that contains the digital circuits.
+
 ## Instructions:
 In the main, the Rom Selector is what selects which program to run. 
 - 00 = sum_array
